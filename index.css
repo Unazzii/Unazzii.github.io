@@ -305,7 +305,7 @@ span {
     padding: 10px;
     line-height: 25px;
     text-align: left;
-    min-width: 800px;
+    max-width: 1000px;
     display: block;
     text-transform: capitalize;
 }
@@ -316,7 +316,7 @@ span {
 
 #services .box {
     min-height: 400px;
-    min-width: 600px;
+    max-width: 500px;
     background-color: #2e4141;
     border-radius: 10px;
     position: relative;
