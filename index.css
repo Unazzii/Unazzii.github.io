@@ -184,7 +184,7 @@ span {
 }
 
 #header ul.active {
-    left: 0;
+    left: 0%;
 }
 
 #header .hamburger.active .bar::after {
