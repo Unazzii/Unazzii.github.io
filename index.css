@@ -36,7 +36,7 @@ span {
 
 .container {
     min-height: 100vh;
-    min-width: 100vw;
+    min-width: 80vw;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -323,7 +323,7 @@ span {
     color: white;
     padding-left: 20px;
     line-height: 30px;
-    margin: 0.25%;
+    margin: 20px;
 }
 
 #services .box h1 {
@@ -582,6 +582,9 @@ span {
         justify-content: center;
         align-items: center;
     }
+    #services .box {
+            margin: 0.25%;
+        }
     #project .project-wrapper {
         margin: 0;
     }
@@ -628,6 +631,7 @@ span {
         }
         #services .box {
             min-width: 650px;
+            margin: 0.25%;
         }
         #project .project-wrapper-container {
             display: flex;
